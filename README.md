@@ -1,1 +1,1 @@
-# a User Configuration Manager
+# a-User-Configuration-Manager
